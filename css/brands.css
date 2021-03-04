@@ -133,6 +133,14 @@ button:hover,
 .button.button-instagram:focus {
   filter: brightness(90%) }
 
+/* MSP */
+.button.button-msp {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-msp:hover,
+.button.button-msp:focus {
+  filter: brightness(90%) }
+
 /* Kit */
 .button.button-kit {
   color: #FFFFFF;
